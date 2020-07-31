@@ -383,7 +383,7 @@ public class FreeStyleMultiBranchProject extends
              */
             @Override
             public String getDisplayName() {
-                return null;
+                return "none";
             }
 
             /**
